@@ -1,0 +1,2785 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MarketShop.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MarketShop.Web.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\font-awesome\\less\\animated.less",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\less\\animated.less"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\font-awesome\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\font-awesome\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\less\\fixed-width.less"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\font-awesome\\less\\larger.less",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\less\\larger.less"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\font-awesome\\less\\list.less",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\less\\list.less"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\font-awesome\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\font-awesome\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\less\\stacked.less"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\less\\variables.less"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\font-awesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\scss\\_animated.scss"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\css\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\owl.transitions.css",
+      "PackagePath": "staticwebassets\\css\\owl.transitions.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\persian-fonts\\BKoodakBold.eot",
+      "PackagePath": "staticwebassets\\css\\persian-fonts\\BKoodakBold.eot"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\persian-fonts\\BKoodakBold.ttf",
+      "PackagePath": "staticwebassets\\css\\persian-fonts\\BKoodakBold.ttf"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\persian-fonts\\BKoodakBold.woff",
+      "PackagePath": "staticwebassets\\css\\persian-fonts\\BKoodakBold.woff"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\persian-fonts\\WYekan.eot",
+      "PackagePath": "staticwebassets\\css\\persian-fonts\\WYekan.eot"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\persian-fonts\\WYekan.ttf",
+      "PackagePath": "staticwebassets\\css\\persian-fonts\\WYekan.ttf"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\persian-fonts\\WYekan.woff",
+      "PackagePath": "staticwebassets\\css\\persian-fonts\\WYekan.woff"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\responsive-rtl.css",
+      "PackagePath": "staticwebassets\\css\\responsive-rtl.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\stylesheet-rtl.css",
+      "PackagePath": "staticwebassets\\css\\stylesheet-rtl.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\stylesheet-skin2.css",
+      "PackagePath": "staticwebassets\\css\\stylesheet-skin2.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\stylesheet-skin3.css",
+      "PackagePath": "staticwebassets\\css\\stylesheet-skin3.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\stylesheet-skin4.css",
+      "PackagePath": "staticwebassets\\css\\stylesheet-skin4.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\css\\stylesheet.css",
+      "PackagePath": "staticwebassets\\css\\stylesheet.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\banner\\cms-block.jpg",
+      "PackagePath": "staticwebassets\\image\\banner\\cms-block.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\banner\\responsive.jpg",
+      "PackagePath": "staticwebassets\\image\\banner\\responsive.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\banner\\sample-banner-1-300X300.jpg",
+      "PackagePath": "staticwebassets\\image\\banner\\sample-banner-1-300X300.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\banner\\sample-banner-1-400x200.jpg",
+      "PackagePath": "staticwebassets\\image\\banner\\sample-banner-1-400x200.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\banner\\sample-banner-2-300X300.jpg",
+      "PackagePath": "staticwebassets\\image\\banner\\sample-banner-2-300X300.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\banner\\sample-banner-2-400x200.jpg",
+      "PackagePath": "staticwebassets\\image\\banner\\sample-banner-2-400x200.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\banner\\sample-banner-3-300X300.jpg",
+      "PackagePath": "staticwebassets\\image\\banner\\sample-banner-3-300X300.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\banner\\sample-banner-3-400x200.jpg",
+      "PackagePath": "staticwebassets\\image\\banner\\sample-banner-3-400x200.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\banner\\sample-banner-4-300X300.jpg",
+      "PackagePath": "staticwebassets\\image\\banner\\sample-banner-4-300X300.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\banner\\sample-banner-4-400x150.jpg",
+      "PackagePath": "staticwebassets\\image\\banner\\sample-banner-4-400x150.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\banner\\sample-banner-4-600X250.jpg",
+      "PackagePath": "staticwebassets\\image\\banner\\sample-banner-4-600X250.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\banner\\sample-banner-5-400x150.jpg",
+      "PackagePath": "staticwebassets\\image\\banner\\sample-banner-5-400x150.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\banner\\sample-banner-5-600X250.jpg",
+      "PackagePath": "staticwebassets\\image\\banner\\sample-banner-5-600X250.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\banner\\small-banner-265x350.jpg",
+      "PackagePath": "staticwebassets\\image\\banner\\small-banner-265x350.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\banner\\small-banner1-265x350.jpg",
+      "PackagePath": "staticwebassets\\image\\banner\\small-banner1-265x350.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\bullet-dark-rtl.png",
+      "PackagePath": "staticwebassets\\image\\bullet-dark-rtl.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\bullet-dark.png",
+      "PackagePath": "staticwebassets\\image\\bullet-dark.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\favicon.png",
+      "PackagePath": "staticwebassets\\image\\favicon.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ad.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ad.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ae.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ae.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\af.png",
+      "PackagePath": "staticwebassets\\image\\flags\\af.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ag.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ag.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ai.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ai.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\al.png",
+      "PackagePath": "staticwebassets\\image\\flags\\al.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\am.png",
+      "PackagePath": "staticwebassets\\image\\flags\\am.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\an.png",
+      "PackagePath": "staticwebassets\\image\\flags\\an.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ao.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ao.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ar.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ar.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\as.png",
+      "PackagePath": "staticwebassets\\image\\flags\\as.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\at.png",
+      "PackagePath": "staticwebassets\\image\\flags\\at.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\au.png",
+      "PackagePath": "staticwebassets\\image\\flags\\au.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\aw.png",
+      "PackagePath": "staticwebassets\\image\\flags\\aw.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ax.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ax.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\az.png",
+      "PackagePath": "staticwebassets\\image\\flags\\az.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ba.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ba.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\bb.png",
+      "PackagePath": "staticwebassets\\image\\flags\\bb.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\bd.png",
+      "PackagePath": "staticwebassets\\image\\flags\\bd.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\be.png",
+      "PackagePath": "staticwebassets\\image\\flags\\be.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\bf.png",
+      "PackagePath": "staticwebassets\\image\\flags\\bf.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\bg.png",
+      "PackagePath": "staticwebassets\\image\\flags\\bg.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\bh.png",
+      "PackagePath": "staticwebassets\\image\\flags\\bh.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\bi.png",
+      "PackagePath": "staticwebassets\\image\\flags\\bi.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\bj.png",
+      "PackagePath": "staticwebassets\\image\\flags\\bj.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\bm.png",
+      "PackagePath": "staticwebassets\\image\\flags\\bm.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\bn.png",
+      "PackagePath": "staticwebassets\\image\\flags\\bn.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\bo.png",
+      "PackagePath": "staticwebassets\\image\\flags\\bo.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\br.png",
+      "PackagePath": "staticwebassets\\image\\flags\\br.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\bs.png",
+      "PackagePath": "staticwebassets\\image\\flags\\bs.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\bt.png",
+      "PackagePath": "staticwebassets\\image\\flags\\bt.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\bv.png",
+      "PackagePath": "staticwebassets\\image\\flags\\bv.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\bw.png",
+      "PackagePath": "staticwebassets\\image\\flags\\bw.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\by.png",
+      "PackagePath": "staticwebassets\\image\\flags\\by.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\bz.png",
+      "PackagePath": "staticwebassets\\image\\flags\\bz.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ca.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ca.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\cc.png",
+      "PackagePath": "staticwebassets\\image\\flags\\cc.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\cd.png",
+      "PackagePath": "staticwebassets\\image\\flags\\cd.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\cf.png",
+      "PackagePath": "staticwebassets\\image\\flags\\cf.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\cg.png",
+      "PackagePath": "staticwebassets\\image\\flags\\cg.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ch.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ch.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ci.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ci.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ck.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ck.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\cl.png",
+      "PackagePath": "staticwebassets\\image\\flags\\cl.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\cm.png",
+      "PackagePath": "staticwebassets\\image\\flags\\cm.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\cn.png",
+      "PackagePath": "staticwebassets\\image\\flags\\cn.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\co.png",
+      "PackagePath": "staticwebassets\\image\\flags\\co.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\cr.png",
+      "PackagePath": "staticwebassets\\image\\flags\\cr.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\cs.png",
+      "PackagePath": "staticwebassets\\image\\flags\\cs.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\cu.png",
+      "PackagePath": "staticwebassets\\image\\flags\\cu.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\cv.png",
+      "PackagePath": "staticwebassets\\image\\flags\\cv.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\cx.png",
+      "PackagePath": "staticwebassets\\image\\flags\\cx.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\cy.png",
+      "PackagePath": "staticwebassets\\image\\flags\\cy.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\cz.png",
+      "PackagePath": "staticwebassets\\image\\flags\\cz.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\de.png",
+      "PackagePath": "staticwebassets\\image\\flags\\de.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\dj.png",
+      "PackagePath": "staticwebassets\\image\\flags\\dj.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\dk.png",
+      "PackagePath": "staticwebassets\\image\\flags\\dk.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\dm.png",
+      "PackagePath": "staticwebassets\\image\\flags\\dm.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\do.png",
+      "PackagePath": "staticwebassets\\image\\flags\\do.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\dz.png",
+      "PackagePath": "staticwebassets\\image\\flags\\dz.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ec.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ec.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ee.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ee.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\eg.png",
+      "PackagePath": "staticwebassets\\image\\flags\\eg.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\eh.png",
+      "PackagePath": "staticwebassets\\image\\flags\\eh.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\england.png",
+      "PackagePath": "staticwebassets\\image\\flags\\england.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\er.png",
+      "PackagePath": "staticwebassets\\image\\flags\\er.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\es.png",
+      "PackagePath": "staticwebassets\\image\\flags\\es.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\et.png",
+      "PackagePath": "staticwebassets\\image\\flags\\et.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\fam.png",
+      "PackagePath": "staticwebassets\\image\\flags\\fam.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\fi.png",
+      "PackagePath": "staticwebassets\\image\\flags\\fi.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\fj.png",
+      "PackagePath": "staticwebassets\\image\\flags\\fj.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\fk.png",
+      "PackagePath": "staticwebassets\\image\\flags\\fk.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\fm.png",
+      "PackagePath": "staticwebassets\\image\\flags\\fm.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\fo.png",
+      "PackagePath": "staticwebassets\\image\\flags\\fo.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\fr.png",
+      "PackagePath": "staticwebassets\\image\\flags\\fr.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ga.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ga.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\gb.png",
+      "PackagePath": "staticwebassets\\image\\flags\\gb.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\gd.png",
+      "PackagePath": "staticwebassets\\image\\flags\\gd.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ge.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ge.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\gh.png",
+      "PackagePath": "staticwebassets\\image\\flags\\gh.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\gi.png",
+      "PackagePath": "staticwebassets\\image\\flags\\gi.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\gl.png",
+      "PackagePath": "staticwebassets\\image\\flags\\gl.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\gm.png",
+      "PackagePath": "staticwebassets\\image\\flags\\gm.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\gn.png",
+      "PackagePath": "staticwebassets\\image\\flags\\gn.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\gp.png",
+      "PackagePath": "staticwebassets\\image\\flags\\gp.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\gq.png",
+      "PackagePath": "staticwebassets\\image\\flags\\gq.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\gr.png",
+      "PackagePath": "staticwebassets\\image\\flags\\gr.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\gs.png",
+      "PackagePath": "staticwebassets\\image\\flags\\gs.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\gt.png",
+      "PackagePath": "staticwebassets\\image\\flags\\gt.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\gu.png",
+      "PackagePath": "staticwebassets\\image\\flags\\gu.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\gw.png",
+      "PackagePath": "staticwebassets\\image\\flags\\gw.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\gy.png",
+      "PackagePath": "staticwebassets\\image\\flags\\gy.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\hk.png",
+      "PackagePath": "staticwebassets\\image\\flags\\hk.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\hn.png",
+      "PackagePath": "staticwebassets\\image\\flags\\hn.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\hr.png",
+      "PackagePath": "staticwebassets\\image\\flags\\hr.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ht.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ht.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\hu.png",
+      "PackagePath": "staticwebassets\\image\\flags\\hu.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\id.png",
+      "PackagePath": "staticwebassets\\image\\flags\\id.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ie.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ie.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\il.png",
+      "PackagePath": "staticwebassets\\image\\flags\\il.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\in.png",
+      "PackagePath": "staticwebassets\\image\\flags\\in.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\io.png",
+      "PackagePath": "staticwebassets\\image\\flags\\io.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\iq.png",
+      "PackagePath": "staticwebassets\\image\\flags\\iq.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ir.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ir.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\is.png",
+      "PackagePath": "staticwebassets\\image\\flags\\is.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\it.png",
+      "PackagePath": "staticwebassets\\image\\flags\\it.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\jm.png",
+      "PackagePath": "staticwebassets\\image\\flags\\jm.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\jo.png",
+      "PackagePath": "staticwebassets\\image\\flags\\jo.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\jp.png",
+      "PackagePath": "staticwebassets\\image\\flags\\jp.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ke.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ke.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\kg.png",
+      "PackagePath": "staticwebassets\\image\\flags\\kg.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\kh.png",
+      "PackagePath": "staticwebassets\\image\\flags\\kh.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ki.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ki.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\km.png",
+      "PackagePath": "staticwebassets\\image\\flags\\km.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\kn.png",
+      "PackagePath": "staticwebassets\\image\\flags\\kn.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\kp.png",
+      "PackagePath": "staticwebassets\\image\\flags\\kp.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\kr.png",
+      "PackagePath": "staticwebassets\\image\\flags\\kr.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\kw.png",
+      "PackagePath": "staticwebassets\\image\\flags\\kw.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ky.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ky.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\kz.png",
+      "PackagePath": "staticwebassets\\image\\flags\\kz.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\la.png",
+      "PackagePath": "staticwebassets\\image\\flags\\la.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\lb.png",
+      "PackagePath": "staticwebassets\\image\\flags\\lb.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\lc.png",
+      "PackagePath": "staticwebassets\\image\\flags\\lc.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\li.png",
+      "PackagePath": "staticwebassets\\image\\flags\\li.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\lk.png",
+      "PackagePath": "staticwebassets\\image\\flags\\lk.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\lr.png",
+      "PackagePath": "staticwebassets\\image\\flags\\lr.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ls.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ls.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\lt.png",
+      "PackagePath": "staticwebassets\\image\\flags\\lt.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\lu.png",
+      "PackagePath": "staticwebassets\\image\\flags\\lu.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\lv.png",
+      "PackagePath": "staticwebassets\\image\\flags\\lv.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ly.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ly.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ma.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ma.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\mc.png",
+      "PackagePath": "staticwebassets\\image\\flags\\mc.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\md.png",
+      "PackagePath": "staticwebassets\\image\\flags\\md.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\mg.png",
+      "PackagePath": "staticwebassets\\image\\flags\\mg.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\mh.png",
+      "PackagePath": "staticwebassets\\image\\flags\\mh.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\mk.png",
+      "PackagePath": "staticwebassets\\image\\flags\\mk.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ml.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ml.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\mm.png",
+      "PackagePath": "staticwebassets\\image\\flags\\mm.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\mn.png",
+      "PackagePath": "staticwebassets\\image\\flags\\mn.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\mo.png",
+      "PackagePath": "staticwebassets\\image\\flags\\mo.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\mp.png",
+      "PackagePath": "staticwebassets\\image\\flags\\mp.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\mq.png",
+      "PackagePath": "staticwebassets\\image\\flags\\mq.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\mr.png",
+      "PackagePath": "staticwebassets\\image\\flags\\mr.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ms.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ms.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\mt.png",
+      "PackagePath": "staticwebassets\\image\\flags\\mt.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\mu.png",
+      "PackagePath": "staticwebassets\\image\\flags\\mu.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\mv.png",
+      "PackagePath": "staticwebassets\\image\\flags\\mv.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\mw.png",
+      "PackagePath": "staticwebassets\\image\\flags\\mw.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\mx.png",
+      "PackagePath": "staticwebassets\\image\\flags\\mx.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\my.png",
+      "PackagePath": "staticwebassets\\image\\flags\\my.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\mz.png",
+      "PackagePath": "staticwebassets\\image\\flags\\mz.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\na.png",
+      "PackagePath": "staticwebassets\\image\\flags\\na.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\nc.png",
+      "PackagePath": "staticwebassets\\image\\flags\\nc.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ne.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ne.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\nf.png",
+      "PackagePath": "staticwebassets\\image\\flags\\nf.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ng.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ng.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ni.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ni.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\nl.png",
+      "PackagePath": "staticwebassets\\image\\flags\\nl.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\no.png",
+      "PackagePath": "staticwebassets\\image\\flags\\no.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\np.png",
+      "PackagePath": "staticwebassets\\image\\flags\\np.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\nr.png",
+      "PackagePath": "staticwebassets\\image\\flags\\nr.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\nu.png",
+      "PackagePath": "staticwebassets\\image\\flags\\nu.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\nz.png",
+      "PackagePath": "staticwebassets\\image\\flags\\nz.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\om.png",
+      "PackagePath": "staticwebassets\\image\\flags\\om.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\pa.png",
+      "PackagePath": "staticwebassets\\image\\flags\\pa.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\pe.png",
+      "PackagePath": "staticwebassets\\image\\flags\\pe.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\pf.png",
+      "PackagePath": "staticwebassets\\image\\flags\\pf.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\pg.png",
+      "PackagePath": "staticwebassets\\image\\flags\\pg.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ph.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ph.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\pk.png",
+      "PackagePath": "staticwebassets\\image\\flags\\pk.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\pl.png",
+      "PackagePath": "staticwebassets\\image\\flags\\pl.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\pm.png",
+      "PackagePath": "staticwebassets\\image\\flags\\pm.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\pn.png",
+      "PackagePath": "staticwebassets\\image\\flags\\pn.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\pr.png",
+      "PackagePath": "staticwebassets\\image\\flags\\pr.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ps.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ps.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\pt.png",
+      "PackagePath": "staticwebassets\\image\\flags\\pt.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\pw.png",
+      "PackagePath": "staticwebassets\\image\\flags\\pw.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\py.png",
+      "PackagePath": "staticwebassets\\image\\flags\\py.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\qa.png",
+      "PackagePath": "staticwebassets\\image\\flags\\qa.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ro.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ro.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ru.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ru.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\rw.png",
+      "PackagePath": "staticwebassets\\image\\flags\\rw.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\sa.png",
+      "PackagePath": "staticwebassets\\image\\flags\\sa.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\sb.png",
+      "PackagePath": "staticwebassets\\image\\flags\\sb.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\sc.png",
+      "PackagePath": "staticwebassets\\image\\flags\\sc.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\scotland.png",
+      "PackagePath": "staticwebassets\\image\\flags\\scotland.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\sd.png",
+      "PackagePath": "staticwebassets\\image\\flags\\sd.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\se.png",
+      "PackagePath": "staticwebassets\\image\\flags\\se.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\sg.png",
+      "PackagePath": "staticwebassets\\image\\flags\\sg.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\sh.png",
+      "PackagePath": "staticwebassets\\image\\flags\\sh.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\si.png",
+      "PackagePath": "staticwebassets\\image\\flags\\si.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\sk.png",
+      "PackagePath": "staticwebassets\\image\\flags\\sk.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\sl.png",
+      "PackagePath": "staticwebassets\\image\\flags\\sl.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\sm.png",
+      "PackagePath": "staticwebassets\\image\\flags\\sm.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\sn.png",
+      "PackagePath": "staticwebassets\\image\\flags\\sn.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\so.png",
+      "PackagePath": "staticwebassets\\image\\flags\\so.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\sr.png",
+      "PackagePath": "staticwebassets\\image\\flags\\sr.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\st.png",
+      "PackagePath": "staticwebassets\\image\\flags\\st.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\sv.png",
+      "PackagePath": "staticwebassets\\image\\flags\\sv.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\sy.png",
+      "PackagePath": "staticwebassets\\image\\flags\\sy.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\sz.png",
+      "PackagePath": "staticwebassets\\image\\flags\\sz.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\tc.png",
+      "PackagePath": "staticwebassets\\image\\flags\\tc.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\td.png",
+      "PackagePath": "staticwebassets\\image\\flags\\td.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\tf.png",
+      "PackagePath": "staticwebassets\\image\\flags\\tf.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\tg.png",
+      "PackagePath": "staticwebassets\\image\\flags\\tg.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\th.png",
+      "PackagePath": "staticwebassets\\image\\flags\\th.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\tj.png",
+      "PackagePath": "staticwebassets\\image\\flags\\tj.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\tk.png",
+      "PackagePath": "staticwebassets\\image\\flags\\tk.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\tl.png",
+      "PackagePath": "staticwebassets\\image\\flags\\tl.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\tm.png",
+      "PackagePath": "staticwebassets\\image\\flags\\tm.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\tn.png",
+      "PackagePath": "staticwebassets\\image\\flags\\tn.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\to.png",
+      "PackagePath": "staticwebassets\\image\\flags\\to.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\tr.png",
+      "PackagePath": "staticwebassets\\image\\flags\\tr.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\tt.png",
+      "PackagePath": "staticwebassets\\image\\flags\\tt.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\tv.png",
+      "PackagePath": "staticwebassets\\image\\flags\\tv.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\tw.png",
+      "PackagePath": "staticwebassets\\image\\flags\\tw.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\tz.png",
+      "PackagePath": "staticwebassets\\image\\flags\\tz.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ua.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ua.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ug.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ug.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\um.png",
+      "PackagePath": "staticwebassets\\image\\flags\\um.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\us.png",
+      "PackagePath": "staticwebassets\\image\\flags\\us.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\uy.png",
+      "PackagePath": "staticwebassets\\image\\flags\\uy.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\uz.png",
+      "PackagePath": "staticwebassets\\image\\flags\\uz.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\va.png",
+      "PackagePath": "staticwebassets\\image\\flags\\va.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\vc.png",
+      "PackagePath": "staticwebassets\\image\\flags\\vc.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ve.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ve.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\vg.png",
+      "PackagePath": "staticwebassets\\image\\flags\\vg.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\vi.png",
+      "PackagePath": "staticwebassets\\image\\flags\\vi.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\vn.png",
+      "PackagePath": "staticwebassets\\image\\flags\\vn.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\vu.png",
+      "PackagePath": "staticwebassets\\image\\flags\\vu.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\wales.png",
+      "PackagePath": "staticwebassets\\image\\flags\\wales.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\wf.png",
+      "PackagePath": "staticwebassets\\image\\flags\\wf.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ws.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ws.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\ye.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ye.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\yt.png",
+      "PackagePath": "staticwebassets\\image\\flags\\yt.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\za.png",
+      "PackagePath": "staticwebassets\\image\\flags\\za.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\zm.png",
+      "PackagePath": "staticwebassets\\image\\flags\\zm.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\flags\\zw.png",
+      "PackagePath": "staticwebassets\\image\\flags\\zw.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\grabbing.png",
+      "PackagePath": "staticwebassets\\image\\grabbing.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\logo-small.png",
+      "PackagePath": "staticwebassets\\image\\logo-small.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\logo.png",
+      "PackagePath": "staticwebassets\\image\\logo.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\no_image.jpg",
+      "PackagePath": "staticwebassets\\image\\no_image.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\1.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\1.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\10.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\10.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\11.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\11.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\12.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\12.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\13.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\13.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\14.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\14.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\15.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\15.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\16.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\16.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\17.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\17.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\18.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\18.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\19.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\19.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\2.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\2.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\20.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\20.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\21.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\21.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\22.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\22.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\23.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\23.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\24.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\24.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\25.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\25.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\26.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\26.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\27.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\27.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\28.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\28.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\29.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\29.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\3.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\3.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\30.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\30.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\31.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\31.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\32.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\32.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\33.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\33.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\34.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\34.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\35.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\35.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\36.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\36.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\37.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\37.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\38.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\38.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\39.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\39.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\4.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\4.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\40.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\40.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\41.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\41.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\42.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\42.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\43.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\43.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\44.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\44.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\45.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\45.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\46.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\46.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\47.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\47.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\48.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\48.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\49.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\49.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\5.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\5.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\50.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\50.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\51.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\51.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\52.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\52.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\53.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\53.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\6.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\6.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\7.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\7.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\8.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\8.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\patterns\\9.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\9.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\payment\\payment_2checkout.png",
+      "PackagePath": "staticwebassets\\image\\payment\\payment_2checkout.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\payment\\payment_american.png",
+      "PackagePath": "staticwebassets\\image\\payment\\payment_american.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\payment\\payment_cirrus.png",
+      "PackagePath": "staticwebassets\\image\\payment\\payment_cirrus.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\payment\\payment_delta.png",
+      "PackagePath": "staticwebassets\\image\\payment\\payment_delta.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\payment\\payment_direct.png",
+      "PackagePath": "staticwebassets\\image\\payment\\payment_direct.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\payment\\payment_discover.png",
+      "PackagePath": "staticwebassets\\image\\payment\\payment_discover.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\payment\\payment_ebay.png",
+      "PackagePath": "staticwebassets\\image\\payment\\payment_ebay.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\payment\\payment_google.png",
+      "PackagePath": "staticwebassets\\image\\payment\\payment_google.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\payment\\payment_maestro.png",
+      "PackagePath": "staticwebassets\\image\\payment\\payment_maestro.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\payment\\payment_mastercard.png",
+      "PackagePath": "staticwebassets\\image\\payment\\payment_mastercard.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\payment\\payment_moneybookers.png",
+      "PackagePath": "staticwebassets\\image\\payment\\payment_moneybookers.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\payment\\payment_paypal.png",
+      "PackagePath": "staticwebassets\\image\\payment\\payment_paypal.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\payment\\payment_sagepay.png",
+      "PackagePath": "staticwebassets\\image\\payment\\payment_sagepay.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\payment\\payment_solo.png",
+      "PackagePath": "staticwebassets\\image\\payment\\payment_solo.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\payment\\payment_switch.png",
+      "PackagePath": "staticwebassets\\image\\payment\\payment_switch.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\payment\\payment_visa.png",
+      "PackagePath": "staticwebassets\\image\\payment\\payment_visa.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\payment\\payment_western_union.png",
+      "PackagePath": "staticwebassets\\image\\payment\\payment_western_union.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\plus.png",
+      "PackagePath": "staticwebassets\\image\\plus.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\FinePix-Long-Zoom-Camera-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\FinePix-Long-Zoom-Camera-200x200.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\FinePix-Long-Zoom-Camera-220x330.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\FinePix-Long-Zoom-Camera-220x330.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\FinePix-Long-Zoom-Camera-50x50.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\FinePix-Long-Zoom-Camera-50x50.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\FinePix-Long-Zoom-Camera-50x75.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\FinePix-Long-Zoom-Camera-50x75.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\apple_cinema_30-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\apple_cinema_30-200x200.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\apple_cinema_30-220x330.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\apple_cinema_30-220x330.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\apple_cinema_30-50x50.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\apple_cinema_30-50x50.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\apple_cinema_30-50x75.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\apple_cinema_30-50x75.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\apple_logo-100x100.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\apple_logo-100x100.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\apple_logo-60x60.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\apple_logo-60x60.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\canon_eos_5d_1-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\canon_eos_5d_1-200x200.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\canon_eos_5d_1-220x330.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\canon_eos_5d_1-220x330.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\canon_logo-100x100.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\canon_logo-100x100.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\canon_logo-60x60.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\canon_logo-60x60.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\hp_2-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\hp_2-200x200.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\hp_2-220x330.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\hp_2-220x330.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\hp_3-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\hp_3-200x200.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\hp_3-220x330.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\hp_3-220x330.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\hp_logo-60x60.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\hp_logo-60x60.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\htc_logo-60x60.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\htc_logo-60x60.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\iphone_1-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\iphone_1-200x200.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\iphone_1-220x330.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\iphone_1-220x330.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\iphone_1-50x50.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\iphone_1-50x50.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\iphone_1-50x75.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\iphone_1-50x75.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\iphone_6-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\iphone_6-200x200.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\iphone_6-220x330.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\iphone_6-220x330.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\iphone_6-50x50.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\iphone_6-50x50.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\iphone_6-50x75.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\iphone_6-50x75.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\ipod_classic_1-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\ipod_classic_1-200x200.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\ipod_classic_1-220x330.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\ipod_classic_1-220x330.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\ipod_nano_1-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\ipod_nano_1-200x200.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\ipod_nano_1-220x330.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\ipod_nano_1-220x330.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\ipod_shuffle_1-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\ipod_shuffle_1-200x200.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\ipod_shuffle_1-220x330.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\ipod_shuffle_1-220x330.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\ipod_touch_1-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\ipod_touch_1-200x200.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\ipod_touch_1-220x330.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\ipod_touch_1-220x330.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_1-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_1-200x200.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_1-220x330.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_1-220x330.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_1-50x50.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_1-50x50.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_1-50x75.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_1-50x75.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_2-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_2-200x200.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_2-220x330.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_2-220x330.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_2-50x50.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_2-50x50.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_2-50x75.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_2-50x75.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_3-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_3-200x200.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_3-220x330.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_3-220x330.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_3-50x50.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_3-50x50.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_3-50x75.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_3-50x75.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_4-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_4-200x200.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_4-220x330.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_4-220x330.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_4-50x50.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_4-50x50.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_4-50x75.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_4-50x75.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_5-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_5-200x200.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_5-220x330.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_5-220x330.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_5-50x50.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_5-50x50.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_5-50x75.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_5-50x75.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_air_1-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_1-200x200.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_air_1-220x330.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_1-220x330.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_air_1-350x350.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_1-350x350.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_air_1-350x525.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_1-350x525.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_air_1-500x500.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_1-500x500.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_air_1-50x50.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_1-50x50.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_air_1-50x75.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_1-50x75.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_air_1-600x900.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_1-600x900.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_air_1-66x66.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_1-66x66.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_air_1-66x99.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_1-66x99.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_air_1-90x135.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_1-90x135.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_air_1-90x90.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_1-90x90.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_air_2-350x350.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_2-350x350.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_air_2-350x525.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_2-350x525.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_air_2-500x500.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_2-500x500.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_air_2-600x900.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_2-600x900.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_air_2-66x66.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_2-66x66.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_air_2-66x99.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_2-66x99.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_air_3-350x350.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_3-350x350.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_air_3-350x525.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_3-350x525.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_air_3-500x500.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_3-500x500.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_air_3-600x900.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_3-600x900.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_air_3-66x66.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_3-66x66.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_air_3-66x99.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_3-66x99.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_air_4-350x350.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_4-350x350.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_air_4-350x525.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_4-350x525.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_air_4-500x500.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_4-500x500.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_air_4-600x900.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_4-600x900.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_air_4-66x66.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_4-66x66.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_air_4-66x99.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_4-66x99.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_pro_1-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_pro_1-200x200.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_pro_1-220x330.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_pro_1-220x330.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_pro_1-50x50.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_pro_1-50x50.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_pro_1-50x75.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_pro_1-50x75.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_pro_1-90x135.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_pro_1-90x135.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\macbook_pro_1-90x90.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_pro_1-90x90.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\nikon_d300_1-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\nikon_d300_1-200x200.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\nikon_d300_1-220x330.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\nikon_d300_1-220x330.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\nikon_d300_1-50x50.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\nikon_d300_1-50x50.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\nikon_d300_1-50x75.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\nikon_d300_1-50x75.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\nikon_d300_4-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\nikon_d300_4-200x200.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\nikon_d300_4-220x330.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\nikon_d300_4-220x330.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\nikon_d300_4-50x50.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\nikon_d300_4-50x50.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\nikon_d300_4-50x75.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\nikon_d300_4-50x75.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\nikon_d300_5-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\nikon_d300_5-200x200.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\nikon_d300_5-220x330.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\nikon_d300_5-220x330.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\nikon_d300_5-50x50.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\nikon_d300_5-50x50.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\nikon_d300_5-50x75.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\nikon_d300_5-50x75.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\palm_logo-60x60.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\palm_logo-60x60.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\palm_treo_pro_1-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\palm_treo_pro_1-200x200.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\palm_treo_pro_1-220x330.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\palm_treo_pro_1-220x330.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\samsung_tab_1-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\samsung_tab_1-200x200.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\samsung_tab_1-220x330.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\samsung_tab_1-220x330.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\samsung_tab_1-50x50.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\samsung_tab_1-50x50.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\samsung_tab_1-50x75.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\samsung_tab_1-50x75.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\samsung_tab_1-90x135.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\samsung_tab_1-90x135.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\samsung_tab_1-90x90.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\samsung_tab_1-90x90.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\sony_logo-60x60.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\sony_logo-60x60.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\sony_vaio_1-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\sony_vaio_1-200x200.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\sony_vaio_1-220x330.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\sony_vaio_1-220x330.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\sony_vaio_1-50x50.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\sony_vaio_1-50x50.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\sony_vaio_1-50x75.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\sony_vaio_1-50x75.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\product\\store_location-275x180.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\store_location-275x180.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\progress.gif",
+      "PackagePath": "staticwebassets\\image\\progress.gif"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\slider\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\image\\slider\\banner-1.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\slider\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\image\\slider\\banner-2.jpg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\bebo.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\bebo.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\blogger.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\blogger.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\delicious.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\delicious.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\digg.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\digg.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\dopplr.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\dopplr.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\ember.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\ember.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\evernote.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\evernote.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\facebook.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\facebook.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\flickr.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\flickr.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\forrst.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\forrst.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\friendfeed.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\friendfeed.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\google_plus.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\google_plus.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\googletalk.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\googletalk.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\grooveshark.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\grooveshark.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\instagram.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\instagram.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\lastfm.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\lastfm.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\linkedin.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\linkedin.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\mixx.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\mixx.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\myspace.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\myspace.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\newsvine.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\newsvine.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\openid.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\openid.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\pandora.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\pandora.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\picasa.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\picasa.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\pinterest.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\pinterest.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\posterous.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\posterous.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\readernaut.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\readernaut.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\reddit.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\reddit.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\rss.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\rss.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\sharethis.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\sharethis.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\skype.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\skype.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\spotify.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\spotify.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\stumbleupon.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\stumbleupon.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\technorati.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\technorati.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\tumblr.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\tumblr.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\twitter.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\twitter.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\viadeo.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\viadeo.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\viddler.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\viddler.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\vimeo.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\vimeo.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\virb.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\virb.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\vk.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\vk.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\xing.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\xing.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\yahoobuzz.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\yahoobuzz.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\yelp.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\yelp.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\image\\socialicons\\youtube.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\youtube.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\js\\bootstrap\\css\\bootstrap-flipped.css",
+      "PackagePath": "staticwebassets\\js\\bootstrap\\css\\bootstrap-flipped.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\js\\bootstrap\\css\\bootstrap-flipped.css.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap\\css\\bootstrap-flipped.css.map"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\js\\bootstrap\\css\\bootstrap-flipped.min.css",
+      "PackagePath": "staticwebassets\\js\\bootstrap\\css\\bootstrap-flipped.min.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\js\\bootstrap\\css\\bootstrap-rtl.css",
+      "PackagePath": "staticwebassets\\js\\bootstrap\\css\\bootstrap-rtl.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\js\\bootstrap\\css\\bootstrap-rtl.css.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap\\css\\bootstrap-rtl.css.map"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\js\\bootstrap\\css\\bootstrap-rtl.min.css",
+      "PackagePath": "staticwebassets\\js\\bootstrap\\css\\bootstrap-rtl.min.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\js\\bootstrap\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\js\\bootstrap\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\js\\bootstrap\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\js\\bootstrap\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\js\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\js\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\js\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\js\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\js\\bootstrap\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\js\\bootstrap\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\js\\bootstrap\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\js\\bootstrap\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\js\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\js\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\js\\bootstrap\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\js\\bootstrap\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\js\\bootstrap\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\js\\bootstrap\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\js\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\js\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\js\\jquery-2.1.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-2.1.1.min.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\js\\jquery.dcjqaccordion.js",
+      "PackagePath": "staticwebassets\\js\\jquery.dcjqaccordion.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\js\\jquery.dcjqaccordion.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.dcjqaccordion.min.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\js\\jquery.easing-1.3.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.easing-1.3.min.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\js\\jquery.elevateZoom-3.0.8.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.elevateZoom-3.0.8.min.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\js\\jquery.elevatezoom.js",
+      "PackagePath": "staticwebassets\\js\\jquery.elevatezoom.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\js\\swipebox\\lib\\ios-orientationchange-fix.js",
+      "PackagePath": "staticwebassets\\js\\swipebox\\lib\\ios-orientationchange-fix.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\js\\swipebox\\lib\\jquery-2.1.0.min.js",
+      "PackagePath": "staticwebassets\\js\\swipebox\\lib\\jquery-2.1.0.min.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\js\\swipebox\\src\\css\\swipebox.css",
+      "PackagePath": "staticwebassets\\js\\swipebox\\src\\css\\swipebox.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\js\\swipebox\\src\\css\\swipebox.min.css",
+      "PackagePath": "staticwebassets\\js\\swipebox\\src\\css\\swipebox.min.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\js\\swipebox\\src\\img\\icons.png",
+      "PackagePath": "staticwebassets\\js\\swipebox\\src\\img\\icons.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\js\\swipebox\\src\\img\\icons.svg",
+      "PackagePath": "staticwebassets\\js\\swipebox\\src\\img\\icons.svg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\js\\swipebox\\src\\img\\loader.gif",
+      "PackagePath": "staticwebassets\\js\\swipebox\\src\\img\\loader.gif"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\js\\swipebox\\src\\js\\jquery.swipebox.js",
+      "PackagePath": "staticwebassets\\js\\swipebox\\src\\js\\jquery.swipebox.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\js\\swipebox\\src\\js\\jquery.swipebox.min.js",
+      "PackagePath": "staticwebassets\\js\\swipebox\\src\\js\\jquery.swipebox.min.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\.DS_Store",
+      "PackagePath": "staticwebassets\\revolution\\.DS_Store"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\assets\\.DS_Store",
+      "PackagePath": "staticwebassets\\revolution\\assets\\.DS_Store"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\assets\\coloredbg.png",
+      "PackagePath": "staticwebassets\\revolution\\assets\\coloredbg.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\assets\\gridtile.png",
+      "PackagePath": "staticwebassets\\revolution\\assets\\gridtile.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\assets\\gridtile_3x3.png",
+      "PackagePath": "staticwebassets\\revolution\\assets\\gridtile_3x3.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\assets\\gridtile_3x3_white.png",
+      "PackagePath": "staticwebassets\\revolution\\assets\\gridtile_3x3_white.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\assets\\gridtile_white.png",
+      "PackagePath": "staticwebassets\\revolution\\assets\\gridtile_white.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\assets\\loader.gif",
+      "PackagePath": "staticwebassets\\revolution\\assets\\loader.gif"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\assets\\sources\\fb.png",
+      "PackagePath": "staticwebassets\\revolution\\assets\\sources\\fb.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\assets\\sources\\fr.png",
+      "PackagePath": "staticwebassets\\revolution\\assets\\sources\\fr.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\assets\\sources\\ig.png",
+      "PackagePath": "staticwebassets\\revolution\\assets\\sources\\ig.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\assets\\sources\\post.png",
+      "PackagePath": "staticwebassets\\revolution\\assets\\sources\\post.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\assets\\sources\\revolution_slide1.png",
+      "PackagePath": "staticwebassets\\revolution\\assets\\sources\\revolution_slide1.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\assets\\sources\\revolution_slide2.png",
+      "PackagePath": "staticwebassets\\revolution\\assets\\sources\\revolution_slide2.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\assets\\sources\\tw.png",
+      "PackagePath": "staticwebassets\\revolution\\assets\\sources\\tw.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\assets\\sources\\vm.png",
+      "PackagePath": "staticwebassets\\revolution\\assets\\sources\\vm.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\assets\\sources\\wc.png",
+      "PackagePath": "staticwebassets\\revolution\\assets\\sources\\wc.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\assets\\sources\\yt.png",
+      "PackagePath": "staticwebassets\\revolution\\assets\\sources\\yt.png"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\revolution\\css\\.DS_Store"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\css\\closedhand.cur",
+      "PackagePath": "staticwebassets\\revolution\\css\\closedhand.cur"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\css\\index.php",
+      "PackagePath": "staticwebassets\\revolution\\css\\index.php"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\css\\layers.css",
+      "PackagePath": "staticwebassets\\revolution\\css\\layers.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\css\\navigation-skins\\ares.css",
+      "PackagePath": "staticwebassets\\revolution\\css\\navigation-skins\\ares.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\css\\navigation-skins\\custom.css",
+      "PackagePath": "staticwebassets\\revolution\\css\\navigation-skins\\custom.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\css\\navigation-skins\\dione.css",
+      "PackagePath": "staticwebassets\\revolution\\css\\navigation-skins\\dione.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\css\\navigation-skins\\erinyen.css",
+      "PackagePath": "staticwebassets\\revolution\\css\\navigation-skins\\erinyen.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\css\\navigation-skins\\gyges.css",
+      "PackagePath": "staticwebassets\\revolution\\css\\navigation-skins\\gyges.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\css\\navigation-skins\\hades.css",
+      "PackagePath": "staticwebassets\\revolution\\css\\navigation-skins\\hades.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\css\\navigation-skins\\hebe.css",
+      "PackagePath": "staticwebassets\\revolution\\css\\navigation-skins\\hebe.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\css\\navigation-skins\\hephaistos.css",
+      "PackagePath": "staticwebassets\\revolution\\css\\navigation-skins\\hephaistos.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\css\\navigation-skins\\hermes.css",
+      "PackagePath": "staticwebassets\\revolution\\css\\navigation-skins\\hermes.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\css\\navigation-skins\\hesperiden.css",
+      "PackagePath": "staticwebassets\\revolution\\css\\navigation-skins\\hesperiden.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\css\\navigation-skins\\metis.css",
+      "PackagePath": "staticwebassets\\revolution\\css\\navigation-skins\\metis.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\css\\navigation-skins\\persephone.css",
+      "PackagePath": "staticwebassets\\revolution\\css\\navigation-skins\\persephone.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\css\\navigation-skins\\uranus.css",
+      "PackagePath": "staticwebassets\\revolution\\css\\navigation-skins\\uranus.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\css\\navigation-skins\\zeus.css",
+      "PackagePath": "staticwebassets\\revolution\\css\\navigation-skins\\zeus.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\css\\navigation.css",
+      "PackagePath": "staticwebassets\\revolution\\css\\navigation.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\css\\openhand.cur",
+      "PackagePath": "staticwebassets\\revolution\\css\\openhand.cur"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\css\\settings.css",
+      "PackagePath": "staticwebassets\\revolution\\css\\settings.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\revolution\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\fonts\\font-awesome\\.DS_Store",
+      "PackagePath": "staticwebassets\\revolution\\fonts\\font-awesome\\.DS_Store"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\fonts\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\revolution\\fonts\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\fonts\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\revolution\\fonts\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\fonts\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\revolution\\fonts\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\revolution\\fonts\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\fonts\\font-awesome\\index.php",
+      "PackagePath": "staticwebassets\\revolution\\fonts\\font-awesome\\index.php"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\fonts\\index.php",
+      "PackagePath": "staticwebassets\\revolution\\fonts\\index.php"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\fonts\\pe-icon-7-stroke\\.DS_Store",
+      "PackagePath": "staticwebassets\\revolution\\fonts\\pe-icon-7-stroke\\.DS_Store"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\fonts\\pe-icon-7-stroke\\css\\helper.css",
+      "PackagePath": "staticwebassets\\revolution\\fonts\\pe-icon-7-stroke\\css\\helper.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\fonts\\pe-icon-7-stroke\\css\\index.php",
+      "PackagePath": "staticwebassets\\revolution\\fonts\\pe-icon-7-stroke\\css\\index.php"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\fonts\\pe-icon-7-stroke\\css\\pe-icon-7-stroke.css",
+      "PackagePath": "staticwebassets\\revolution\\fonts\\pe-icon-7-stroke\\css\\pe-icon-7-stroke.css"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.eot",
+      "PackagePath": "staticwebassets\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.eot"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.svg",
+      "PackagePath": "staticwebassets\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.svg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.ttf",
+      "PackagePath": "staticwebassets\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.ttf"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.woff",
+      "PackagePath": "staticwebassets\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroke.woff"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\index.php",
+      "PackagePath": "staticwebassets\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\index.php"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\fonts\\pe-icon-7-stroke\\index.php",
+      "PackagePath": "staticwebassets\\revolution\\fonts\\pe-icon-7-stroke\\index.php"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\fonts\\revicons\\index.php",
+      "PackagePath": "staticwebassets\\revolution\\fonts\\revicons\\index.php"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\fonts\\revicons\\revicons.eot",
+      "PackagePath": "staticwebassets\\revolution\\fonts\\revicons\\revicons.eot"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\fonts\\revicons\\revicons.svg",
+      "PackagePath": "staticwebassets\\revolution\\fonts\\revicons\\revicons.svg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\fonts\\revicons\\revicons.ttf",
+      "PackagePath": "staticwebassets\\revolution\\fonts\\revicons\\revicons.ttf"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\fonts\\revicons\\revicons.woff",
+      "PackagePath": "staticwebassets\\revolution\\fonts\\revicons\\revicons.woff"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\index.php",
+      "PackagePath": "staticwebassets\\revolution\\index.php"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\info.cfg",
+      "PackagePath": "staticwebassets\\revolution\\info.cfg"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\js\\extensions\\index.php",
+      "PackagePath": "staticwebassets\\revolution\\js\\extensions\\index.php"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\js\\extensions\\revolution.extension.actions.min.js",
+      "PackagePath": "staticwebassets\\revolution\\js\\extensions\\revolution.extension.actions.min.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\js\\extensions\\revolution.extension.carousel.min.js",
+      "PackagePath": "staticwebassets\\revolution\\js\\extensions\\revolution.extension.carousel.min.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js",
+      "PackagePath": "staticwebassets\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js",
+      "PackagePath": "staticwebassets\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\js\\extensions\\revolution.extension.migration.min.js",
+      "PackagePath": "staticwebassets\\revolution\\js\\extensions\\revolution.extension.migration.min.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\js\\extensions\\revolution.extension.navigation.min.js",
+      "PackagePath": "staticwebassets\\revolution\\js\\extensions\\revolution.extension.navigation.min.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\js\\extensions\\revolution.extension.parallax.min.js",
+      "PackagePath": "staticwebassets\\revolution\\js\\extensions\\revolution.extension.parallax.min.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js",
+      "PackagePath": "staticwebassets\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\js\\extensions\\revolution.extension.video.min.js",
+      "PackagePath": "staticwebassets\\revolution\\js\\extensions\\revolution.extension.video.min.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\js\\extensions\\source\\index.php",
+      "PackagePath": "staticwebassets\\revolution\\js\\extensions\\source\\index.php"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\js\\extensions\\source\\revolution.extension.actions.js",
+      "PackagePath": "staticwebassets\\revolution\\js\\extensions\\source\\revolution.extension.actions.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\js\\extensions\\source\\revolution.extension.carousel.js",
+      "PackagePath": "staticwebassets\\revolution\\js\\extensions\\source\\revolution.extension.carousel.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\js\\extensions\\source\\revolution.extension.kenburn.js",
+      "PackagePath": "staticwebassets\\revolution\\js\\extensions\\source\\revolution.extension.kenburn.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\js\\extensions\\source\\revolution.extension.layeranimation.js",
+      "PackagePath": "staticwebassets\\revolution\\js\\extensions\\source\\revolution.extension.layeranimation.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\js\\extensions\\source\\revolution.extension.migration.js",
+      "PackagePath": "staticwebassets\\revolution\\js\\extensions\\source\\revolution.extension.migration.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\js\\extensions\\source\\revolution.extension.navigation.js",
+      "PackagePath": "staticwebassets\\revolution\\js\\extensions\\source\\revolution.extension.navigation.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\js\\extensions\\source\\revolution.extension.parallax.js",
+      "PackagePath": "staticwebassets\\revolution\\js\\extensions\\source\\revolution.extension.parallax.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\js\\extensions\\source\\revolution.extension.slideanims.js",
+      "PackagePath": "staticwebassets\\revolution\\js\\extensions\\source\\revolution.extension.slideanims.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\js\\extensions\\source\\revolution.extension.video.js",
+      "PackagePath": "staticwebassets\\revolution\\js\\extensions\\source\\revolution.extension.video.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\js\\index.php",
+      "PackagePath": "staticwebassets\\revolution\\js\\index.php"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\js\\jquery.themepunch.enablelog.js",
+      "PackagePath": "staticwebassets\\revolution\\js\\jquery.themepunch.enablelog.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\js\\jquery.themepunch.revolution.min.js",
+      "PackagePath": "staticwebassets\\revolution\\js\\jquery.themepunch.revolution.min.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\js\\jquery.themepunch.tools.min.js",
+      "PackagePath": "staticwebassets\\revolution\\js\\jquery.themepunch.tools.min.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\js\\source\\index.php",
+      "PackagePath": "staticwebassets\\revolution\\js\\source\\index.php"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\js\\source\\jquery.themepunch.enablelog.js",
+      "PackagePath": "staticwebassets\\revolution\\js\\source\\jquery.themepunch.enablelog.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\js\\source\\jquery.themepunch.revolution.js",
+      "PackagePath": "staticwebassets\\revolution\\js\\source\\jquery.themepunch.revolution.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\js\\source\\jquery.themepunch.tools.min.js",
+      "PackagePath": "staticwebassets\\revolution\\js\\source\\jquery.themepunch.tools.min.js"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\php\\.DS_Store",
+      "PackagePath": "staticwebassets\\revolution\\php\\.DS_Store"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\php\\facebook\\class-facebook.php",
+      "PackagePath": "staticwebassets\\revolution\\php\\facebook\\class-facebook.php"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\php\\flickr\\class-flickr.php",
+      "PackagePath": "staticwebassets\\revolution\\php\\flickr\\class-flickr.php"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\php\\instagram\\class-instagram.php",
+      "PackagePath": "staticwebassets\\revolution\\php\\instagram\\class-instagram.php"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\php\\twitter\\.DS_Store",
+      "PackagePath": "staticwebassets\\revolution\\php\\twitter\\.DS_Store"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\php\\twitter\\RestApi.php",
+      "PackagePath": "staticwebassets\\revolution\\php\\twitter\\RestApi.php"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\php\\twitter\\class-twitter.php",
+      "PackagePath": "staticwebassets\\revolution\\php\\twitter\\class-twitter.php"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\php\\twitter\\connection\\Application.php",
+      "PackagePath": "staticwebassets\\revolution\\php\\twitter\\connection\\Application.php"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\php\\twitter\\connection\\ConnectionAbstract.php",
+      "PackagePath": "staticwebassets\\revolution\\php\\twitter\\connection\\ConnectionAbstract.php"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\php\\twitter\\connection\\User.php",
+      "PackagePath": "staticwebassets\\revolution\\php\\twitter\\connection\\User.php"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\php\\vimeo\\class-vimeo.php",
+      "PackagePath": "staticwebassets\\revolution\\php\\vimeo\\class-vimeo.php"
+    },
+    {
+      "Id": "E:\\projects\\c#\\MarketShop\\MarketShop.Web\\wwwroot\\revolution\\php\\youtube\\class-youtube.php",
+      "PackagePath": "staticwebassets\\revolution\\php\\youtube\\class-youtube.php"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MarketShop.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MarketShop.Web.props",
+      "PackagePath": "build\\MarketShop.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MarketShop.Web.props",
+      "PackagePath": "buildMultiTargeting\\MarketShop.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MarketShop.Web.props",
+      "PackagePath": "buildTransitive\\MarketShop.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
